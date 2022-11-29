@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Open_Lab_10._00
+namespace Open_Lab_10._01
 {
     internal class Program
     {
